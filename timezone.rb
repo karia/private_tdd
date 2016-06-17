@@ -1,6 +1,5 @@
 require 'minitest/autorun'
 require 'minitest/unit'
-#require_relative 'fizzbuzz'
 
 MiniTest::Unit.autorun
 
